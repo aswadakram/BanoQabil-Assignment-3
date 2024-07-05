@@ -1,0 +1,1 @@
+This repository contains Python scripts for different tasks, including checking for leap years (leap_year_checker.py), generating marksheet (marksheet.py), converting temperatures (temp_converter.py), and determining triangle types (triangle_determiner.py). 
